@@ -6,7 +6,7 @@ if [ -d "default_models" ]; then
 else
     MODELS_DIR=${MODELS_DIR:- models}
 fi
-MODEL=${MODEL:- ${MODELS_DIR}/DBLP_ps}
+MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 if [ -d "default_data" ]; then
     DATA_DIR=${DATA_DIR:- default_data}
 else
