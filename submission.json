@@ -1,4 +1,4 @@
 {
-    "dockerhub-id": "jtanoto/autophrase",
+    "dockerhub-id": "jtanoto/q1",
     "build-script": "python run.py"
 }
